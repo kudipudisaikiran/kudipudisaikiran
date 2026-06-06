@@ -28,7 +28,7 @@
 
 - 🎓 B.Tech in **Computer Science & Engineering** @ Vishnu Institute of Technology, Bhimavaram (2023–2027) — CGPA: **8.1/10**
 - 💼 **AI Engineer Intern** at ATG (Advanced Technology Group) — Remote
-- 🔭 Currently working on **AgriTech Smart Agriculture Dashboard**
+- 🔭 Currently working on **AI related stuff**
 - 🌱 Currently learning **LangChain, Advanced Deep Learning, NLP, Computer Vision**
 - 👯 Looking to collaborate on **AI/ML and Full Stack projects**
 - 💬 Ask me about **Python, Machine Learning, React.js, Firebase, Voice Cloning**
