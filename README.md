@@ -1,6 +1,9 @@
 <h1 align="center">
   Hi there, I'm Sai Kiran Kudipudi 👋
 </h1>
+<div align="center">
+  <img height="250" src="./logo/Boy.webp" alt="Coding Boy Illustration" />
+</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Aspiring+AI%2FML+Engineer;Deep+Learning+%7C+LLMs+%7C+Voice+AI;Full+Stack+Developer;Always+Learning%2C+Always+Building" alt="Typing SVG" />
