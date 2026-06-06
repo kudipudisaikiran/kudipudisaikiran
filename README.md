@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kudipudisaikiran/kudipudisaikiran/main/github-banner.svg" width="100%" />
+</p>
 <h1 align="center">
   Hi there, I'm Sai Kiran Kudipudi 👋
 </h1>
