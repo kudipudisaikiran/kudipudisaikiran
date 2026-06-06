@@ -70,24 +70,8 @@
 
 ---
 
-## 💼 Experience
 
-### 🤖 AI Engineer Intern — ATG (Advanced Technology Group) *(Aug 2025 – Nov 2025 · Remote)*
-- Improved **voice cloning accuracy by 30%** via advanced fine-tuning of the VibeVoice model using custom training datasets
-- Built a **Streamlit-based automated course builder** that reduced manual content-setup time by **50%**, streamlining onboarding workflows
 
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| 🌾 **AgriTech Dashboard** | E-commerce platform managing 20+ agricultural products with real-time order tracking. Improved fulfillment efficiency by 30% with dual-role farmer/admin dashboard. | React.js, Firebase, Firestore |
-| 📰 **TechNx — AI News Platform** | Cross-platform mobile news app with Gemini API-powered RSS summarization, saving users 4+ hours of research weekly. Boosted session engagement by 45%. | React, Node.js, Firebase, Gemini API |
-| 🎙️ **VibeVoice Fine-Tuning** | Advanced fine-tuning pipeline for voice cloning using custom training datasets — achieved 30% improvement in cloning accuracy. | Python, Deep Learning, PyTorch |
-| 📖 **Automated Course Builder** | Streamlit tool that automates course content generation, reducing manual onboarding workflow time by 50%. | Python, Streamlit, AI/LLM |
-
----
 
 ## 📊 GitHub Stats
 
@@ -112,27 +96,9 @@
   </picture>
 </p>
 
----
 
-## 🏅 Certifications & Achievements
 
-- 🏅 **Java Programming** — NPTEL Certification
-- 🔒 **Social Media & Privacy Security** — NPTEL Certification
-- 💻 **Full Stack Java Developer** — EduSkills Certification
-- ⚡ **24-Hour Hackathon** — Delivered a fully functional prototype in 24 hours as part of a 4-member team
-- 🧠 **Product Thinking & AI Development** — Industry workshops mentored by domain experts
 
----
-
-## 📈 Academic Highlights
-
-| Degree | Institution | Score |
-|--------|------------|-------|
-| 🎓 B.Tech CSE | Vishnu Institute of Technology, Bhimavaram | CGPA: 8.1/10 |
-| 📚 Intermediate (MPC) | SASI Junior College, Tanuku | 98.1% |
-| 🏫 SSC | Sri Chaitanya Techno School, Penugonda | 97.8% |
-
----
 
 <p align="center">
   <i>💡 "Passionate about building intelligent applications that solve real-world challenges."</i><br/><br/>
